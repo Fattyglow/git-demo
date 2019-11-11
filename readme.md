@@ -1,4 +1,4 @@
-## git-demo仓库说明
+## git-demo
 
-hello Git!
+this is the first demo for me to use <font color="red">github</font>.
 
